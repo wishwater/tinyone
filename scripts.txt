@@ -1,0 +1,12 @@
+buutton.(
+
+<button onclick="myFunction()">lets start</button>
+
+id="demo"
+
+<script>
+function myFunction() {
+el = document.getElementById("demo");
+el.style.display = "block";
+}
+</script>)
